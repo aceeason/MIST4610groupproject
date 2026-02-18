@@ -8,7 +8,7 @@ Members:
 4. Sean Donovan - [@sean4565](https://github.com/sean4565)
 
 **Explanation of Data Model**
-fhhfjkf
+Our groups task is to build a database to manage virtual clinic througput and insurance reimbursment. The central entity of the model is the patients. The patients are the clients that the physicians manage. Patience can interact with the model two ways by booking virtual appointments, and by getting their appointments insured. Patients work conjuctively with physicians, appointments, medical encounters, prescriptions and insurance providers. Our group wants to accurately model the patient to medical system interaction, generate sample data, and create a model that manages these relationships. 
 
 **Core Entities:**
 1. Patients
