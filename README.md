@@ -2,7 +2,7 @@
 Group 2 Project
 
 Members:
-@aceeason - Aaron Eason
-@ksl05149 - Kiera Lumley
-@NaviKhan15 - Navi Khan
-@sean4565 - Sean Donovan
+1. @aceeason - Aaron Eason
+2. @ksl05149 - Kiera Lumley
+3. @NaviKhan15 - Navi Khan
+4. @sean4565 - Sean Donovan
