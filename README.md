@@ -7,4 +7,15 @@ Members:
 3. @NaviKhan15 - Navi Khan
 4. @sean4565 - Sean Donovan
 
-**Problem Description**
+**Explanation of Data Model**
+fhhfjkf
+
+**Core Entities:**
+1. Patients
+2. Physicians
+3. Appointments
+4. Prescriptions
+5. Insurance_Providers
+6. Medical_Encounters
+
+**Other Entities**
