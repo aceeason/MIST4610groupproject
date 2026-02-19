@@ -23,5 +23,3 @@ Our groups task is to build a database to manage virtual clinic througput and in
 10. consentForms
 11. insuranceClaims
 12. Availability
-
-**Other Entities**
