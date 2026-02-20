@@ -15,7 +15,7 @@ Our groups task is to build a database to manage virtual clinic througput and in
 2. Physicians
 3. Appointments
 4. Prescriptions
-5. insuranceProviders
+5. insuranceProvider
 6. medicalEncounters
 7. Billing
 8. Payments
