@@ -26,5 +26,5 @@ Our groups task is to build a database to manage virtual clinic througput and in
 11. insuranceClaims
 12. Availability
 
-https://github.com/aceeason/MIST4610groupproject/blob/main/query1.png
+!(https://github.com/aceeason/MIST4610groupproject/blob/main/query1.png)
 
