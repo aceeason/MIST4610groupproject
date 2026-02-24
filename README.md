@@ -1,7 +1,7 @@
 # MIST4610groupproject
 Group 2 Project
 
-Members:
+#Members:
 1. Aaron Eason - [@aceeason](https://github.com/aceeason)
 2. Kiera Lumley - [ksl05149](https://github.com/ksl05149)
 3. Navi Khan - [@NaviKhan15](https://github.com/NaviKhan15)
@@ -9,10 +9,10 @@ Members:
 5. Gilbert Fahnbulleh -
 6. Steven Thomas - 
 
-**Explanation of Data Model**
+##**Explanation of Data Model**
 Our groups task is to build a database to manage virtual clinic througput and insurance reimbursment. The central entity of the model is the patients. The patients are the clients that the physicians manage. Patience can interact with the model two ways by booking virtual appointments, and by getting their appointments insured. Patients work conjuctively with physicians, appointments, medical encounters, prescriptions and insurance providers. Our group wants to accurately model the patient to medical system interaction, generate sample data, and create a model that manages these relationships. We are performing queries on this data to provide business insight about the telehealth patient and provider portal.
 
-**Core Entities:**
+##**Core Entities:**
 1. Patients
 2. Physicians
 3. Appointments
@@ -26,7 +26,7 @@ Our groups task is to build a database to manage virtual clinic througput and in
 11. insuranceClaims
 12. Availability
 
-Database Model
+#Database Model
 ![DB Model](dbmodel.png)
 
 Query 1
