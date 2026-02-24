@@ -27,3 +27,6 @@ Our groups task is to build a database to manage virtual clinic througput and in
 12. Availability
 
 
+![Alt Text](dbmodel.png)
+
+
