@@ -34,6 +34,16 @@ Our groups task is to build a database to manage virtual clinic througput and in
 # Data Dictionary 
 
 ![patients](https://github.com/aceeason/MIST4610groupproject/blob/2af36acab55e5c68239dffc78ba08546825d2dc1/patients.png)
+![physicians](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/physicians.png)
+![appointments](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/appointments.png)
+![payments](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/payments.png)
+![prescriptions](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/prescriptions.png)
+![consentForms](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/consentForms.png)
+![insuranceClaims](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/insuranceClaims.png)
+![insuranceProvider](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/insuranceProvider.png)
+![medicalEncounters](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/medicalEncounters.png)
+![medicalRecords](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/medicalRecords.png)
+![billing](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/billing.png)
 
 # Query 1
 ![Query 1](query1.png)
