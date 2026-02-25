@@ -103,7 +103,7 @@ Query 7 shows which patients have individual bills that are larger than an avera
 ## Query 8
 ![Query 8](query8.png)
 
-Query 8 shows which cities have more than one patient but fewer than 3 total appointments scheduled. This query identifies regions where the practice has a presence but perhaps insufficient appointment conversion or outreach. 
+Query 8 shows which cities have completed appointments at their clinic. This query identifies locations where the practice has more patients and more resources can be given to those clinics.
 
 ## Query 9
 ![Query 9](query9.png)
