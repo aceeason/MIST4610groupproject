@@ -22,33 +22,29 @@ After an appointment occurs, it may generate a medicalEncounter, that connects b
 Finally, the ConsentForm entity ensures that all clinical and financial activities occur within legal and ethical boundaries. Patients may sign multiple consent forms over time, each with its own type, signed date, expiration date, and status, allowing the clinic to verify that proper authorization exists before releasing records, billing insurance, or delivering certain types of care. Together, payments, insurance, and consent create a complete administrative framework that supports accurate billing, compliant reimbursement, and transparent patient authorization throughout the virtual clinic.
 
 ## **Core Entities:**
-1. Patients
-2. Physicians
-3. Appointments
-4. Prescriptions
-5. insuranceProvider
-6. medicalEncounters
-7. Billing
-8. Payments
-9. medicalRecords
-10. consentForms
-11. insuranceClaims
-12. Availability
+1. Appointments
+2. Availabilty
+3. Billing
+4. consentForms
+5. insuranceClaims
+6. insuranceProvider
+7. medicalEncounters
+8. medicalRecords
+9. Patients
+10. Payments
+11. Physicians
+12. Prescriptions
 
 # Database Model
 ![DB Model](dbmodel.png)
 
 # Data Dictionary 
 
-![patients](https://github.com/aceeason/MIST4610groupproject/blob/2af36acab55e5c68239dffc78ba08546825d2dc1/patients.png)
-
-![physicians](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/physicians.png)
-
 ![appointments](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/appointments.png)
 
-![payments](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/payments.png)
+![avaliability](https://github.com/aceeason/MIST4610groupproject/blob/91a9914e4c44a79163bd8d9e895c1e66d2464ad7/avaliability.png)
 
-![prescriptions](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/prescriptions.png)
+![billing](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/billing.png)
 
 ![consentForms](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/consentForms.png)
 
@@ -60,9 +56,14 @@ Finally, the ConsentForm entity ensures that all clinical and financial activiti
 
 ![medicalRecords](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/medicalRecords.png)
 
-![billing](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/billing.png)
+![patients](https://github.com/aceeason/MIST4610groupproject/blob/2af36acab55e5c68239dffc78ba08546825d2dc1/patients.png)
 
-![avaliability](https://github.com/aceeason/MIST4610groupproject/blob/91a9914e4c44a79163bd8d9e895c1e66d2464ad7/avaliability.png)
+![payments](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/payments.png)
+
+![physicians](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/physicians.png)
+
+![prescriptions](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/prescriptions.png)
+
 
 # Query 1
 ![Query 1](query1.png)
