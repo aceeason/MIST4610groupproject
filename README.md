@@ -103,7 +103,7 @@ Query 7 shows which patients have individual bills that are larger than an avera
 ## Query 8
 ![Query 8](query8.png)
 
-Query 8 shows which cities have completed appointments at their clinic. This query identifies locations where the practice has more patients and more resources can be given to those clinics.
+Query 8 shows which cities the patients are from that have completed appointments at the clinic. This query identifies locations where there are more patients so the clinic can know which areas the majority of the patients are from. 
 
 ## Query 9
 ![Query 9](query9.png)
