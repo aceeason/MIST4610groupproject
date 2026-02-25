@@ -7,7 +7,7 @@ Group 2 Project
 3. Navi Khan - [@NaviKhan15](https://github.com/NaviKhan15)
 4. Sean Donovan - [@sean4565](https://github.com/sean4565)
 5. Gilbert Fahnbulleh -
-6. Steven Thomas - 
+6. Steven Thomas - [@st11521](https://github.com/st11521)
 
 ## **Scenario Description**
 Our groups task is to build a database to manage virtual clinic througput and insurance reimbursment. The central entity of the model is the patients. The patients are the clients that the physicians manage. Patients can interact with the model two ways by booking virtual appointments, and by getting their appointments insured. Patients work conjuctively with physicians, appointments, medical encounters, prescriptions and insurance providers. Our group wants to accurately model the patient to medical system interaction, generate sample data, and create a model that manages these relationships. We are performing queries on this data to provide business insight about the telehealth patient and provider portal.
