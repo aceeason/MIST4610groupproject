@@ -33,6 +33,7 @@ Our groups task is to build a database to manage virtual clinic througput and in
 
 # Data Dictionary 
 
+![patients](https://github.com/aceeason/MIST4610groupproject/blob/2af36acab55e5c68239dffc78ba08546825d2dc1/patients.png)
 
 # Query 1
 ![Query 1](query1.png)
