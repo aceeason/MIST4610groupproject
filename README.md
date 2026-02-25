@@ -107,3 +107,5 @@ Query 9 shows the total claim amount associated with each insurance plan type. I
 
 Query 10 shows the total amount paid per payment method for bills greater than $150.00. This helps management understand how patients prefer to settle larger balances (credit card vs. cash), which can influence decisions on payment processing fees and financial policies. 
 
+
+![Query Table](querytable.png)
