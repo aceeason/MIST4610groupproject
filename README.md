@@ -1,5 +1,5 @@
 # MIST4610groupproject
-Group 2 Project
+Group 2
 
 ## Members:
 1. Aaron Eason - [@aceeason](https://github.com/aceeason)
