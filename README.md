@@ -117,3 +117,12 @@ Query 10 shows the total amount paid per payment method for bills greater than $
 
 
 ![Query Table](querytable.png)
+
+
+Name of the database: ns_ace57971
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
+
+
+
+
