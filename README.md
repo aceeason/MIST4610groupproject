@@ -44,6 +44,7 @@ Our groups task is to build a database to manage virtual clinic througput and in
 ![medicalEncounters](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/medicalEncounters.png)
 ![medicalRecords](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/medicalRecords.png)
 ![billing](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/billing.png)
+![avaliability](https://github.com/aceeason/MIST4610groupproject/blob/91a9914e4c44a79163bd8d9e895c1e66d2464ad7/avaliability.png)
 
 # Query 1
 ![Query 1](query1.png)
