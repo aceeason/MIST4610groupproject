@@ -9,8 +9,10 @@ Group 2 Project
 5. Gilbert Fahnbulleh -
 6. Steven Thomas - 
 
-## **Explanation of Data Model**
+## **Scenario Description**
 Our groups task is to build a database to manage virtual clinic througput and insurance reimbursment. The central entity of the model is the patients. The patients are the clients that the physicians manage. Patience can interact with the model two ways by booking virtual appointments, and by getting their appointments insured. Patients work conjuctively with physicians, appointments, medical encounters, prescriptions and insurance providers. Our group wants to accurately model the patient to medical system interaction, generate sample data, and create a model that manages these relationships. We are performing queries on this data to provide business insight about the telehealth patient and provider portal.
+
+## **Explanation of Data Model**
 
 ## **Core Entities:**
 1. Patients
