@@ -47,9 +47,9 @@ Finally, the consentForm entity ensures that all clinical and financial activiti
 
 ![billing](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/billing.png)
 
-![insuranceClaim](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/insuranceClaim.png)
+![insuranceClaim](https://github.com/aceeason/MIST4610groupproject/blob/main/insuranceClaim.png)
 
-![insuranceProviders](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/insuranceProviders.png)
+![insuranceProviders](https://github.com/aceeason/MIST4610groupproject/blob/main/insuranceProviders.png)
 
 ![medicalEncounters](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/medicalEncounters.png)
 
