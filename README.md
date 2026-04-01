@@ -115,7 +115,7 @@ Query 7 shows which patients have individual bills that are larger than an avera
 Query 8 shows which cities the patients are from that have completed appointments at the clinic. This query identifies locations where there are more patients so the clinic can know which areas the majority of the patients are from. 
 
 ## Query 9
-![Query 9](query9.png)
+![Query 9](Query9.png)
 
 Query 9 shows the total claim amount associated with each insurance plan type. It evaluates which insurance plans are the most common within the practice to negotiate better provider rates. 
 
