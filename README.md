@@ -80,7 +80,7 @@ Multi-table JOIN, Subquery
 
 Query 2 shows all the specialties that have the phrase ‘Surgery’ at the end of their name and the amount of Physicians in each Surgery Specialty. 
 
-managerial description
+We know that we have all Surgery specialties as surgery follows the specialty in the data. This allows management to know exactly how many surgeons they have. With this data, the clinic can expand strategically. They can become more of a specialty clinic by hiring more of the same specialties or they can bring in different types of specialties therefore increasing the types of patients coming to the clinic. 
 
 GROUP BY, Built-in functions, REGEXP
 
