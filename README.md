@@ -120,7 +120,7 @@ Query 8 shows which cities the patients are from that have completed appointment
 Query 9 shows the total claim amount associated with each insurance plan type. It evaluates which insurance plans are the most common within the practice to negotiate better provider rates. 
 
 ## Query 10
-![Query 10](query10.png)
+![Query 10](Query10.png)
 
 Query 10 shows the total amount paid per payment method for bills greater than $150.00. This helps management understand how patients prefer to settle larger balances (credit card vs. cash), which can influence decisions on payment processing fees and financial policies. 
 
