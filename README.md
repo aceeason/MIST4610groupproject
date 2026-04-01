@@ -89,7 +89,7 @@ Query 3 lists out all patients ID, there first and last name, and the revenue th
 Management could use this information to see high cost clients, and give them specialized care for how much money they are spending. Managers could continue to track this data to see why clients are generating so much revenue, and if it increases or decreases over time. 
 
 ## Query 4
-![Query 4](query4.png)
+![Query 4](Query4.png)
 
 Query 4 lists all the dates of all the medical encounters that have not happened yet. This tracks people who have never been to the office before. Managers can use this to track potential future clients, and incentivise these patients to come to there practice. 
 
