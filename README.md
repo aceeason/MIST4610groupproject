@@ -108,7 +108,9 @@ Query 6 shows which prescriptions were filled at CVS in Athens or Savannah with 
 ## Query 7
 ![Query 7](Query7.png)
 
-Query 7 shows which patients have individual bills that are larger than an average of $500.00. This query shows high-cost medical events that might trigger insurance audits or require specialized payment plans. 
+Query 7 shows which patients have individual bills that their historical average bill amount is larger than $500.
+
+This shows management a person that could need extra help with their payment plans or coordination of care. Management can also accurately look at potential future revenue. Since this shows historical data, we know that these patients normally have higher costs and can bring in more money to the clinic. 
 
 ## Query 8
 ![Query 8](Query8.png)
