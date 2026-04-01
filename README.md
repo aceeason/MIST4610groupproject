@@ -71,6 +71,8 @@ The billing record is the base for two major downstream components of Payments a
 
 Query 1 lists all patients in the Telehealth Clinic that visited during the month of March while also having a billing amount higher than the overall average billing amount in the system.
 
+This query allows management to see which patients received more complex care. We are assuming that the higher the bill, the more tests or complex care that is required for a patient. Management can then be involved in more care by having a dedicated care coordinator that knows all about the patient's case to assign the correct specialists, routine follow-up checks, and daily health problems. 
+
 ## Query 2
 ![Query 2](Query2.png)
 
