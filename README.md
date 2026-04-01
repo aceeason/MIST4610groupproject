@@ -19,8 +19,6 @@ After an appointment occurs, it may generate a medicalEncounter, that connects b
 
 The billing record is the base for two major downstream components of Payments and insuranceClaims. Payments connect to patients in a one to many relationship where a patient may make pay off a bill over multiple installments, recording details such as the date, method and amount, allowing the system to track partial payments. Alongside payments, the model supports insurance reimbursement through the InsuranceProvider and InsuranceClaim entities. Patients may have multiple insurance plans on file, and each billing record can generate one or more claims, reflecting real-world scenarios where primary and secondary insurance coverage may both be involved. Insurance claims store the claim type, claim amount, and the provider responsible for reviewing the claim. As each claim moves through stages such as submission, processing, approval, or denial, its outcome directly influences whether the associated bill is fully paid, partially covered, or left outstanding. 
 
-Finally, the consentForm entity ensures that all clinical and financial activities occur within legal and ethical boundaries. Patients may sign multiple consent forms over time, each with its own type, signed date, expiration date, and status, allowing the clinic to verify that proper authorization exists before releasing records, billing insurance, or delivering certain types of care. Together, payments, insurance, and consent create a complete administrative framework that supports accurate billing, compliant reimbursement, and transparent patient authorization throughout the virtual clinic.
-
 ## **Core Entities:**
 1. Appointments
 2. Availabilty
