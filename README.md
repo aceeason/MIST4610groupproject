@@ -87,7 +87,9 @@ GROUP BY, Built-in functions, REGEXP
 ## Query 3
 ![Query 3](query3.png)
 
-Query 3 shows the total amount billed by each physician. This allows the administration to track the revenue generation of individual practitioners and evaluate their financial contribution to the clinic. 
+Query 3 lists out all patients ID, there first and last name, and the revenue that they generate. This can be used to track how mcuch revenue each individual client generates. 
+
+Management could use this information to see high cost clients, and give them specialized care for how much money they are spending. Managers could continue to track this data to see why clients are generating so much revenue, and if it increases or decreases over time. 
 
 ## Query 4
 ![Query 4](query4.png)
