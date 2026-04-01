@@ -96,7 +96,9 @@ Query 4 lists all the dates of all the medical encounters that have not happened
 ## Query 5
 ![Query 5](Query5.png)
 
-Query 5 shows which patients under 30 received a prescription that costs more than $50. This helps identify younger patient demographics that may require financial assistance or high-cost chronic care management.
+Query 5 shows which patients under 30 received a prescription that costs more than $50. 
+
+This helps the clinic to identify younger patient demographics that may require financial assistance or high-cost chronic care management. It can encourage physicians to show financial resources for prescriptions during appointments or office management can send this information to patients. 
 
 ## Query 6
 ![Query 6](query6.png)
