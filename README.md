@@ -67,12 +67,12 @@ The billing record is the base for two major downstream components of Payments a
 
 
 ## Query 1
-![Query 1](query1.png)
+![Query 1](Query1.png)
 
 Query 1 shows all patients who have appointments scheduled in March 2026 that have a billing amount higher than average. This helps make sure to follow up with patients it returns that may make them more money.
 
 ## Query 2
-![Query 2](query2.png)
+![Query 2](Query2.png)
 
 Query 2 shows all the departments that have the phrase ‘ology’ in their name. This helps management judge the size of each department. 
 
