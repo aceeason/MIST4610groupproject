@@ -115,7 +115,9 @@ This shows management a person that could need extra help with their payment pla
 ## Query 8
 ![Query 8](Query8.png)
 
-Query 8 shows which cities the patients are from that have completed appointments at the clinic. This query identifies locations where there are more patients so the clinic can know which areas the majority of the patients are from. 
+Query 8 shows which cities the patients are from that have completed appointments at the clinic. 
+
+This query identifies locations where there are more patients so the clinic can know which areas the majority of the patients are from. It can help so that they can increase the size of the clinics in those locations. More patients equals more money for the clinic in the long run. So, it is very strategic to look at where the most completed appointments are located. 
 
 ## Query 9
 ![Query 9](Query9.png)
