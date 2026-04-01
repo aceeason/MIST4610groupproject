@@ -111,7 +111,7 @@ Query 6 shows which prescriptions were filled at CVS in Athens or Savannah with 
 Query 7 shows which patients have individual bills that are larger than an average of $500.00. This query shows high-cost medical events that might trigger insurance audits or require specialized payment plans. 
 
 ## Query 8
-![Query 8](query8.png)
+![Query 8](Query8.png)
 
 Query 8 shows which cities the patients are from that have completed appointments at the clinic. This query identifies locations where there are more patients so the clinic can know which areas the majority of the patients are from. 
 
