@@ -97,7 +97,7 @@ Query 5 shows which patients under 30 received a prescription that costs more th
 Query 6 shows which prescriptions were filled at CVS in Athens or Savannah with a quantity over 20. This query analyzes supply chain and pharmacy partnership volume in specific geographic regions.
 
 ## Query 7
-![Query 7](https://github.com/aceeason/MIST4610groupproject/blob/main/query7.png)
+![Query 7](Query7.png)
 
 Query 7 shows which patients have individual bills that are larger than an average of $200.00. This query shows high-cost medical events that might trigger insurance audits or require specialized payment plans. 
 
