@@ -122,12 +122,15 @@ This query identifies locations where there are more patients so the clinic can 
 ## Query 9
 ![Query 9](Query9.png)
 
-In order to determine which insurance plan types contribute the most to overall revenue, Query 9 calculates the total claim amount for each kind of plan. This information helps prioritize premium plans according to usage and cost impact and enables improved negotiations with insurance providers. 
+In order to determine which insurance plan types contribute the most to overall revenue, Query 9 calculates the total claim amount for each kind of plan. 
 
+This information helps prioritize premium plans according to usage and cost impact and enables improved negotiations with insurance providers. 
 ## Query 10
 ![Query 10](Query10.png)
 
-To help management understand patient payment preferences for larger balances, Query 10 examines the total transactions and amount collected by payment method for bills greater than $150.00. Decisions about processing fees, payment guidelines, and the best ways to collect revenue can all be affected by this information.
+Query 10 examines the total transactions and amount collected by payment method for bills greater than $150.00. 
+
+This help smanagement understand patient payment preferences for larger balances. Decisions about processing fees, payment guidelines, and the best ways to collect revenue can all be affected by this information. You want to make sure the clinic makes a profit but also that the patients want to keep coming back to your clinic. 
 
 
 ![Query Table](querytable.png)
