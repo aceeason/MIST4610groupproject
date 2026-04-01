@@ -25,15 +25,16 @@ Finally, the consentForm entity ensures that all clinical and financial activiti
 1. Appointments
 2. Availabilty
 3. Billing
-4. consentForms
-5. insuranceClaims
-6. insuranceProvider
-7. medicalEncounters
-8. medicalRecords
-9. Patients
-10. Payments
-11. Physicians
+4. insuranceClaim
+5. insuranceProvider
+6. medicalEncounters
+7. medicalRecords
+8. Patients
+9. Payments
+10. Physicians
+11. PhysicianSpecialty
 12. Prescriptions
+13. Specialty
 
 ## Database Model
 ![DB Model](dbmodel.png)
@@ -46,11 +47,9 @@ Finally, the consentForm entity ensures that all clinical and financial activiti
 
 ![billing](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/billing.png)
 
-![consentForms](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/consentForms.png)
+![insuranceClaims](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/insuranceClaim.png)
 
-![insuranceClaims](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/insuranceClaims.png)
-
-![insuranceProvider](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/insuranceProvider.png)
+![insuranceProvider](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/insuranceProviders.png)
 
 ![medicalEncounters](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/medicalEncounters.png)
 
@@ -62,7 +61,11 @@ Finally, the consentForm entity ensures that all clinical and financial activiti
 
 ![physicians](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/physicians.png)
 
+![physicianSpecialty](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/physicianSpecialty.png)
+
 ![prescriptions](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/prescriptions.png)
+
+![specialty](https://github.com/aceeason/MIST4610groupproject/blob/14746d7bd47b599ce5dda538a96678c77f6af411/specialty.png)
 
 
 ## Query 1
