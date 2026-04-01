@@ -94,7 +94,7 @@ Management could use this information to see high cost clients, and give them sp
 Query 4 lists all the dates of all the medical encounters that have not been paid for. This helps the billing department to identify lost revenue or patients who have received care but have not yet initiated a payment. 
 
 ## Query 5
-![Query 5](query5.png)
+![Query 5](Query5.png)
 
 Query 5 shows which patients under 30 received a prescription that costs more than $50. This helps identify younger patient demographics that may require financial assistance or high-cost chronic care management.
 
