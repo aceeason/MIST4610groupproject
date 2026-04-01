@@ -91,7 +91,7 @@ Management could use this information to see high cost clients, and give them sp
 ## Query 4
 ![Query 4](query4.png)
 
-Query 4 lists all the dates of all the medical encounters that have not been paid for. This helps the billing department to identify lost revenue or patients who have received care but have not yet initiated a payment. 
+Query 4 lists all the dates of all the medical encounters that have not happened yet. This tracks people who have never been to the office before. Managers can use this to track potential future clients, and incentivise these patients to come to there practice. 
 
 ## Query 5
 ![Query 5](Query5.png)
