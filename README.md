@@ -69,7 +69,7 @@ The billing record is the base for two major downstream components of Payments a
 ## Query 1
 ![Query 1](Query1.png)
 
-Query 1 shows all patients who have appointments scheduled in March 2026 that have a billing amount higher than average. This helps make sure to follow up with patients it returns that may make them more money.
+Query 1 lists all patients in the Telehealth Clinic that visited during the month of March while also having a billing amount higher than the overall average billing amount in the system.
 
 ## Query 2
 ![Query 2](Query2.png)
