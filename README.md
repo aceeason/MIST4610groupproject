@@ -84,14 +84,16 @@ We know that we have all Surgery specialties as surgery follows the specialty in
 ## Query 3
 ![Query 3](query3.png)
 
-Query 3 lists out all patients ID, there first and last name, and the revenue that they generate. This can be used to track how mcuch revenue each individual client generates. 
+Query 3 lists out all patients ID, their first and last name, and the revenue that they generate. This can be used to track how much revenue each individual client generates. 
 
 Management could use this information to see high cost clients, and give them specialized care for how much money they are spending. Managers could continue to track this data to see why clients are generating so much revenue, and if it increases or decreases over time. 
 
 ## Query 4
 ![Query 4](Query4.png)
 
-Query 4 lists all the dates of all the medical encounters that have not happened yet. This tracks people who have never been to the office before. Managers can use this to track potential future clients, and incentivise these patients to come to there practice. 
+Query 4 lists all the dates of all the medical encounters that have not happened yet. 
+
+This tracks people who have never been to the office before. Managers can use this to track potential future clients, and incentivise these patients to come to there practice. 
 
 ## Query 5
 ![Query 5](Query5.png)
@@ -124,13 +126,13 @@ This query identifies locations where there are more patients so the clinic can 
 
 In order to determine which insurance plan types contribute the most to overall revenue, Query 9 calculates the total claim amount for each kind of plan. 
 
-This information helps prioritize premium plans according to usage and cost impact and enables improved negotiations with insurance providers. 
+This information helps prioritize premium plans according to usage and cost impact. This enables improved negotiations with insurance providers. 
 ## Query 10
 ![Query 10](Query10.png)
 
 Query 10 examines the total transactions and amount collected by payment method for bills greater than $150.00. 
 
-This help smanagement understand patient payment preferences for larger balances. Decisions about processing fees, payment guidelines, and the best ways to collect revenue can all be affected by this information. You want to make sure the clinic makes a profit but also that the patients want to keep coming back to your clinic. 
+This helps management understand patient payment preferences for larger balances. Decisions about processing fees, payment guidelines, and the best ways to collect revenue can all be affected by this information. You want to make sure the clinic makes a profit but also that the patients want to keep coming back to your clinic. 
 
 
 ![Query Table](querytable.png)
