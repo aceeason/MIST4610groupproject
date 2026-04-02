@@ -103,9 +103,11 @@ Query 5 shows which patients under 30 received a prescription that costs more th
 This helps the clinic to identify younger patient demographics that may require financial assistance or high-cost chronic care management. It can encourage physicians to show financial resources for prescriptions during appointments or office management can send this information to patients. 
 
 ## Query 6
-![Query 6](query6.png)
+![Query 6](Query6.1.png)
 
-Query 6 shows which prescriptions were filled at CVS in Athens or Savannah with a quantity over 20. This query analyzes supply chain and pharmacy partnership volume in specific geographic regions.
+Query 6 shows the risk level that each CVS pharmacy patient has dependent on the quantity of medication they are receiving. Anything above 50 is "High Risk", between 21 and 50 is "Medium Risk", 20 and below is "Normal". We also get to see the presecription ID so we know exactly which prescription has which risk level.
+
+This information allows managment to be able to check in with each patient that has a high risk amount of medication. They want to make sure that the patient is taking the correct amount of medication at the correct time. This is to ensure a patient is not going to overdose because of the amount they have. It also makes sure that the high risk patients only recieves one prescription of this medication. If the medicaiton is high risk, you don't want multiple providers providing the same thing that could eventually allow a patient to become addicted. 
 
 ## Query 7
 ![Query 7](Query7.png)
