@@ -96,18 +96,18 @@ Query 4 lists all the dates of all the medical encounters that have not happened
 This tracks people who have never been to the office before. Managers can use this to track potential future clients, and incentivise these patients to come to there practice. 
 
 ## Query 5
-![Query 5](Query5.png)
+![Query 5](https://github.com/aceeason/MIST4610groupproject/blob/b3276c8c00ece407cc624e73a28a763f191eb217/Query%205.2.png)
 
-Query 5 shows which patients under 30 received a prescription that costs more than $50. 
+Query 5 identifies patients under the age of 30 who have received prescriptions costing more than $50, while also calculating the total number of prescriptions, total spending, and average prescription cost per patient.
 
-This helps the clinic to identify younger patient demographics that may require financial assistance or high-cost chronic care management. It can encourage physicians to show financial resources for prescriptions during appointments or office management can send this information to patients. 
+This query helps clinic management to identify younger patients who may be experiencing higher medication costs. By summarizing total and average spending, this provides a clear picture of the financial burden within this demographic. In a virtual clinic setting this insight is valuable for guiding outreach, such as offering cost-saving alternatives, financial assistance resources, or additional consultation. This allows the virtual clinic to be more proactive in addressing potential challenges, improving both patient satisfaction and long term health outcomes. 
 
 ## Query 6
-![Query 6](Query6.1.png)
+![Query 6](https://github.com/aceeason/MIST4610groupproject/blob/b3276c8c00ece407cc624e73a28a763f191eb217/Query%206.2.png)
 
-Query 6 shows the risk level that each CVS pharmacy patient has dependent on the quantity of medication they are receiving. Anything above 50 is "High Risk", between 21 and 50 is "Medium Risk", 20 and below is "Normal". We also get to see the presecription ID so we know exactly which prescription has which risk level.
+Query 6 identifies prescriptions filled at CVS pharmacies and categorizes them into risk levels of “High,” “Moderate”, or “Normal” based on the quantity of medication prescribed. It also provides key patient details including name, age, and prescription information. 
 
-This information allows managment to be able to check in with each patient that has a high risk amount of medication. They want to make sure that the patient is taking the correct amount of medication at the correct time. This is to ensure a patient is not going to overdose because of the amount they have. It also makes sure that the high risk patients only recieves one prescription of this medication. If the medicaiton is high risk, you don't want multiple providers providing the same thing that could eventually allow a patient to become addicted. 
+This query enables management to monitor prescription patterns associated with larger medication quantities, which can indicate higher usage, chronic conditions, or potential misuse. By focusing on a specific pharmacy group, the clinic can also track partnerships or trends tied to that provider. This insight is valuable for triggering follow ups, ensuring appropriate medication use, and improving patient safety through personalized care and oversight.
 
 ## Query 7
 ![Query 7](Query7.png)
