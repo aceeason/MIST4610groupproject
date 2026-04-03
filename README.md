@@ -136,7 +136,8 @@ The data can allow management to identify the higher value plans based on both u
 
 Query 10 examines the total transactions and amount collected by payment method for bills greater than $150.00. 
 
-This helps management understand patient payment preferences for larger balances. Decisions about processing fees, payment guidelines, and the best ways to collect revenue can all be affected by this information. You want to make sure the clinic makes a profit but also that the patients want to keep coming back to your clinic. 
+This helps management understand patient payment preferences for larger balances. Decisions about processing fees, payment guidelines, and the best ways to collect revenue can all be affected by this information. The goal is to make sure the clinic makes a profit but also that the patients want to keep coming back to your clinic. 
+
 
 
 ![Query Table](querytable.png)
