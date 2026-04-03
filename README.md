@@ -127,9 +127,10 @@ This query identifies locations where there are more patients so the clinic can 
 ## Query 9
 ![Query 9](Query9.png)
 
-In order to determine which insurance plan types contribute the most to overall revenue, Query 9 calculates the total claim amount for each kind of plan. 
+Query 9 determines which insurance plan types contribute most significantly to overall revenue. It calculates the total claim amount associated with each plan category. The results show a breakdown of revenue distribution across different insurance types.
 
-This information helps prioritize premium plans according to usage and cost impact. This enables improved negotiations with insurance providers. 
+The data can allow management to identify the higher value plans based on both utilization and financial impact. With this information, management can prioritize relationships with the most profitable insurance providers and develop more informed negotiation strategies. Additionally, understanding the revenue trends would help the clinic have better financial planning, resource allocation, and make better decisions within the organization.
+
 ## Query 10
 ![Query 10](Query10.png)
 
