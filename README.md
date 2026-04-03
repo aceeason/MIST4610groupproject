@@ -138,7 +138,7 @@ Query 10 examines the total transactions and amount collected by payment method 
 
 This helps management understand patient payment preferences for larger balances. Decisions about processing fees, payment guidelines, and the best ways to collect revenue can all be affected by this information. The goal is to make sure the clinic makes a profit but also that the patients want to keep coming back to your clinic. 
 
-
+## Query Matrix
 
 ![Query Table](querytable.png)
 
