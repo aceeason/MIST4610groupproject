@@ -91,9 +91,10 @@ Management could use this information to see high cost clients, and give them sp
 ## Query 4
 ![Query 4](Query4.png)
 
-Query 4 lists all the dates of all the medical encounters that have not happened yet. 
+Query 4 lists and identifies names of the patients who have not yet attended their scheduled appointment. This provides insight to the individuals who are registered to the system but have not completed their visit yet. 
 
-This tracks people who have never been to the office before. Managers can use this to track potential future clients, and incentivise these patients to come to there practice. 
+By tracking this group, management can better understand the new pool of patients and take measures to encourage them to attend. They may send appointment reminders, follow up with communications, etc. Leveraging this data improves the efficiency of the schedule and potentially foster long-term relationships with clients.
+
 
 ## Query 5
 ![Query 5](https://github.com/aceeason/MIST4610groupproject/blob/b3276c8c00ece407cc624e73a28a763f191eb217/Query%205.2.png)
